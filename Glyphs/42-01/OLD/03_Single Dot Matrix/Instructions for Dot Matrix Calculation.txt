@@ -1,0 +1,7 @@
+For the dot matrix system to work, do the following operation
+
+full glyph width / stem width
+
+for example, if I take 22-31, it gives me:
+
+128 / 22 = 5.81818182 circles to fill the whole length of the glyph. It must be a round number.
